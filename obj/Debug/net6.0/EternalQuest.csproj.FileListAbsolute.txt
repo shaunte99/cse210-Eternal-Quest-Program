@@ -1,0 +1,4 @@
+C:\Users\nomce\OneDrive\Desktop\CSE 210\Eternal Quest\obj\Debug\net6.0\EternalQuest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nomce\OneDrive\Desktop\CSE 210\Eternal Quest\obj\Debug\net6.0\EternalQuest.AssemblyInfoInputs.cache
+C:\Users\nomce\OneDrive\Desktop\CSE 210\Eternal Quest\obj\Debug\net6.0\EternalQuest.AssemblyInfo.cs
+C:\Users\nomce\OneDrive\Desktop\CSE 210\Eternal Quest\obj\Debug\net6.0\EternalQuest.csproj.CoreCompileInputs.cache
