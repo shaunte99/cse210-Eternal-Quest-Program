@@ -33,8 +33,8 @@ namespace EternalQuest
         }
 
         public override string GetStatus()
-        {
-            return TimesCompleted >= TimesRequired ? "[X]" : "[ ]";
+            {
+             return TimesCompleted >= TimesRequired ? "[X]" : "[ ]";
         }
     }
 }
