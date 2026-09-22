@@ -1,19 +1,19 @@
 namespace EternalQuest
-{
-    public class EternalGoal : Goal
+  {
+    public class EternalGoal : Goal system
     {
         public int TimesCompleted { get; set; }
 
         public EternalGoal(string name, int points) : base(name, points) { }
 
         public override void RecordProgress()
-        {
+         {
             TimesCompleted++;
             Console.WriteLine($"You have completed {Name} {TimesCompleted} times.");
         }
 
         public override void Display()
-        {
+         {
             Console.WriteLine($"{GetStatus()} {Name} - {Points} points - {TimesCompleted} times completed.");
         }
 
