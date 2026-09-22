@@ -1,12 +1,12 @@
-<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft26.NET.Sdk">
 
-  <PropertyGroup>
+  <PropertyGroup> ClicksLimitedGroup
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
     <RootNamespace>EternalQuest</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
+  <ItemGroup> 
     <None Update="progress.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
